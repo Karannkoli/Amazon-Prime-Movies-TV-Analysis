@@ -29,8 +29,8 @@ Explore various filters and insights.
 ## 📂 Dataset
 The dataset used includes information on Amazon Prime titles, their genres, ratings, directors, and release years.
 
-## Download the PBIX File
-[Download Power BI Dashboard (.pbix)](https://github.com/Karannkoli/Amazon-Prime-Movies-TV-Analysis/blob/main/amazon_prime_dataset.csv)
-
 ## 📢 Contributions
 Feel free to fork the repository, report issues, or suggest improvements!
+
+## Download the PBIX File
+[Download Power BI Dashboard (.pbix)](https://github.com/Karannkoli/Amazon-Prime-Movies-TV-Analysis/blob/main/amazon_prime_dataset.csv)
