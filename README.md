@@ -18,8 +18,8 @@ This project presents an interactive Power BI dashboard analyzing Amazon Prime c
 ---
 
 ## 🚀 How to Use
-1️⃣ Download the .pbix file
-2️⃣ Open it in Power BI Desktop
+1️⃣ Download the .pbix file  
+2️⃣ Open it in Power BI Desktop  
 3️⃣ Explore various filters and insights
 
 ---
