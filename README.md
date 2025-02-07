@@ -8,12 +8,12 @@ This project presents an interactive Power BI dashboard analyzing Amazon Prime c
 ---
 
 ## 📌 Key Features
-✔ **Total Titles & Ratings** - Summary of available content
-✔ **Genre Analysis** - Top genres by total shows
-✔ **Ratings Distribution** - Breakdown of content ratings
-✔ **Movies vs. TV Shows** - Proportion of movie and TV show content
-✔ **Country-wise Distribution** - Map visualization of shows by country
-✔ **Trend Analysis** - Shows released over the years
+✔ **Total Titles & Ratings** – Summary of available content
+✔ **Genre Analysis** – Top genres by total shows
+✔ **Ratings Distribution** – Breakdown of content ratings
+✔ **Movies vs. TV Shows** – Proportion of movie and TV show content
+✔ **Country-wise Distribution** – Map visualization of shows by country
+✔ **Trend Analysis** – Shows released over the years
 
 ---
 
